@@ -1,0 +1,70 @@
+<application>
+  <component name="AppStorage">
+    <option name="newTranslationDialogX" value="447" />
+    <option name="newTranslationDialogY" value="425" />
+    <histories>
+      <item value="artifact" />
+      <item value="true if r is non-empty (i.e. part of the view is visible at the root level." />
+      <item value="If true is returned, r holds the global coordinates of the visible portion of this view. globalOffset – If true is returned, globalOffset holds the dx,dy between this view and its root. globalOffet may be null" />
+      <item value="f true is returned, r holds the global coordinates of the visible portion of this view. globalOffset – If true is returned, globalOffset holds the dx,dy between this view and its root. globalOffet may be null." />
+      <item value="If some part of this view is not clipped by any of its parents, then return that area in r in global (root) coordinates. To convert r to local coordinates (without taking possible View rotations into account), offset it by -globalOffset (e.g. r.offset(-globalOffset.x, -globalOffset.y)). If the view is completely clipped or translated out, return false." />
+      <item value="If some part of this view is not clipped by any of its parents" />
+      <item value="曲线" />
+      <item value="qun" />
+      <item value="qu" />
+      <item value="Allocation" />
+      <item value="ceil" />
+      <item value="ce" />
+      <item value="c" />
+      <item value="&lt;color name=&quot;red&quot;&gt;#F34235&lt;/color&gt;&#10;    &lt;color name=&quot;red_light&quot;&gt;#FF80AB&lt;/color&gt;&#10;&#10;    &lt;color name=&quot;green&quot;&gt;#4BAE4F&lt;/color&gt;&#10;    &lt;color name=&quot;green_light&quot;&gt;#689F38&lt;/color&gt;&#10;&#10;    &lt;color name=&quot;blue&quot;&gt;#2095F2&lt;/color&gt;&#10;    &lt;color name=&quot;blue_light&quot;&gt;#02A8F3&lt;/color&gt;&#10;    &lt;color name=&quot;blue_translucent_dark&quot;&gt;#8002A8F3&lt;/color&gt;&#10;    &lt;color name=&quot;blue_translucent_light&quot;&gt;#882095F2&lt;/color&gt;&#10;&#10;    &lt;color name=&quot;yellow&quot;&gt;#FEC006&lt;/color&gt;&#10;    &lt;color name=&quot;yellow_light&quot;&gt;#FEEA3A&lt;/color&gt;&#10;    &lt;color name=&quot;yellow_dark&quot;&gt;#ff6200&lt;/color&gt;&#10;&#10;    &lt;color name=&quot;gray&quot;&gt;#D0D0D0&lt;/color&gt;&#10;    &lt;color name=&quot;gray_dark&quot;&gt;#303030&lt;/color&gt;&#10;    &lt;color name=&quot;gray_light&quot;&gt;#909090&lt;/color&gt;&#10;&#10;    &lt;color name=&quot;gray_bg&quot;&gt;#E7E7E7&lt;/color&gt;&#10;    &lt;color name=&quot;gray_line&quot;&gt;#EFEFF4&lt;/color&gt;&#10;    &lt;color name=&quot;gray_content&quot;&gt;#606060&lt;/color&gt;&#10;&#10;    &lt;!--覆层--&gt;&#10;    &lt;color name=&quot;light_translucent&quot;&gt;#20000000&lt;/color&gt;&#10;    &lt;color name=&quot;dark_translucent&quot;&gt;#88000000&lt;/color&gt;&#10;    &lt;color name=&quot;white_translucent&quot;&gt;#99FFFFFF&lt;/color&gt;&#10;&#10;    &lt;!--渐变--&gt;&#10;    &lt;color name=&quot;shadow_end_color&quot;&gt;#03000000&lt;/color&gt;&#10;    &lt;color name=&quot;shadow_start_color&quot;&gt;#37000000&lt;/color&gt;&#10;&#10;    &lt;color name=&quot;light&quot;&gt;#800de6e8&lt;/color&gt;" />
+      <item value="Contain" />
+      <item value="Domain" />
+      <item value="onboard" />
+      <item value="board" />
+      <item value="dialogue" />
+      <item value="Heartbeat Interval" />
+      <item value="Reminder" />
+      <item value="注册" />
+      <item value="zhu'c" />
+      <item value="Compensation" />
+      <item value="promp" />
+      <item value="promption" />
+      <item value="prompt" />
+      <item value="pro" />
+      <item value="Battery" />
+      <item value="Maintenance Reminder" />
+      <item value="Endurance" />
+      <item value="PROMTING" />
+      <item value="Interaction" />
+      <item value="REMIND" />
+      <item value="Zone" />
+      <item value="Prompt" />
+      <item value="HFP" />
+      <item value="DIM" />
+      <item value="diminteraction" />
+      <item value="lighting" />
+      <item value="Hvac" />
+      <item value="New Energy" />
+      <item value="Dashboard" />
+      <item value="Soundextension" />
+      <item value="An enum switch case label must be the unqualified name of an enumeration constant" />
+      <item value="取消导航" />
+      <item value="地图收藏当前点" />
+      <item value="收藏的地点" />
+      <item value="收藏的di" />
+      <item value="收藏点" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
+        <entry key="ROMANIAN" value="1" />
+        <entry key="MALAY" value="1" />
+        <entry key="WELSH" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1650015747474" />
+  </component>
+</application>
